@@ -92,3 +92,4 @@ ALTER TABLE Zomato_data
 MODIFY Longitude FLOAT NULL,
 MODIFY Latitude FLOAT NULL;
 
+-- temp line --
